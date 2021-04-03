@@ -1,0 +1,6 @@
+[submodule "HeThongGuiXe-Website"]
+	path = HeThongGuiXe-Website
+	url = https://github.com/hovanvydut/HeThongGuiXe-Website.git
+[submodule "HeThongGuiXe-Winform"]
+	path = HeThongGuiXe-Winform
+	url = https://github.com/hovanvydut/HeThongGuiXe-Winform.git
